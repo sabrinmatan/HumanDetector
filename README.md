@@ -7,14 +7,6 @@
 
 > **Ett Computer Vision-system som inte bara detekterar människor, utan också genererar en text-motivering (Captioning) för sina beslut. Byggt som en "Proof of Concept" för medicinsk bildanalys.**
 
----
-
-## 🖼️ Demo & Resultat
-
-*(Här kan du lägga in en skärmdump på när programmet har hittat en människa och skrivit en text)*
-![Demo Screenshot](https://via.placeholder.com/800x400.png?text=Ladda+upp+en+screenshot+här)
-
----
 
 ## 🏥 Varför detta projekt? (Koppling till Röntgen/MedTech)
 
